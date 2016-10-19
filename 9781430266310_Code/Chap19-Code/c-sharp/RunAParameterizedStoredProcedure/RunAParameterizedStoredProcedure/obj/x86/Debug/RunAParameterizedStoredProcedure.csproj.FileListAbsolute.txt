@@ -1,0 +1,4 @@
+c:\users\robin\documents\visual studio 2010\Projects\RunAParameterizedStoredProcedure\RunAParameterizedStoredProcedure\bin\Debug\RunAParameterizedStoredProcedure.exe
+c:\users\robin\documents\visual studio 2010\Projects\RunAParameterizedStoredProcedure\RunAParameterizedStoredProcedure\bin\Debug\RunAParameterizedStoredProcedure.pdb
+c:\users\robin\documents\visual studio 2010\Projects\RunAParameterizedStoredProcedure\RunAParameterizedStoredProcedure\obj\x86\Debug\RunAParameterizedStoredProcedure.exe
+c:\users\robin\documents\visual studio 2010\Projects\RunAParameterizedStoredProcedure\RunAParameterizedStoredProcedure\obj\x86\Debug\RunAParameterizedStoredProcedure.pdb

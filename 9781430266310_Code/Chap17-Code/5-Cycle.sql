@@ -1,0 +1,2 @@
+ALTER SEQUENCE CustomerDetails.SeqFinancialProducts
+CYCLE

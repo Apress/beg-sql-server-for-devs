@@ -1,0 +1,8 @@
+c:\users\robin\documents\visual studio 2010\Projects\ReturnAValue\ReturnAValue\bin\Debug\ReturnAValue.exe
+c:\users\robin\documents\visual studio 2010\Projects\ReturnAValue\ReturnAValue\bin\Debug\ReturnAValue.pdb
+c:\users\robin\documents\visual studio 2010\Projects\ReturnAValue\ReturnAValue\bin\Debug\ReturnAValue.xml
+c:\users\robin\documents\visual studio 2010\Projects\ReturnAValue\ReturnAValue\obj\x86\Debug\ReturnAValue.Resources.resources
+c:\users\robin\documents\visual studio 2010\Projects\ReturnAValue\ReturnAValue\obj\x86\Debug\ReturnAValue.vbproj.GenerateResource.Cache
+c:\users\robin\documents\visual studio 2010\Projects\ReturnAValue\ReturnAValue\obj\x86\Debug\ReturnAValue.exe
+c:\users\robin\documents\visual studio 2010\Projects\ReturnAValue\ReturnAValue\obj\x86\Debug\ReturnAValue.xml
+c:\users\robin\documents\visual studio 2010\Projects\ReturnAValue\ReturnAValue\obj\x86\Debug\ReturnAValue.pdb

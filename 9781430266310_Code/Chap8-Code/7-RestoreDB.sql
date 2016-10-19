@@ -1,0 +1,14 @@
+USE [master]
+GO
+RESTORE DATABASE [ApressFinancial] FROM  DISK = 
+N'C:\APRESS_DEV1\MSSQL12.APRESS_DEV1\MSSQL\
+BackupApressFinancialFirstFullBackup.bak'
+WITH  FILE = 1,  NORECOVERY,  NOUNLOAD,  REPLACE,  
+STATS = 5
+GO
+RESTORE LOG [ApressFinancial] FROM  DISK = 
+N'C:\APRESS_DEV1\MSSQL12.APRESS_DEV1\MSSQL\
+BackupApressFinancialFirstFullBackup.bak'
+WITH  FILE = 2,  RECOVERY, NOUNLOAD,  STATS = 5
+
+

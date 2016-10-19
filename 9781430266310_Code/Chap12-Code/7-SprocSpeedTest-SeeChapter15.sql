@@ -1,0 +1,23 @@
+DROP PROCEDURE [dbo].[usp_InsertData] 
+GO
+CREATE PROCEDURE [dbo].[usp_InsertData] 
+  WITH NATIVE_COMPILATION, SCHEMABINDING, EXECUTE AS OWNER
+  AS 
+  BEGIN ATOMIC 
+  WITH (TRANSACTION ISOLATION LEVEL = SNAPSHOT, LANGUAGE = N'us_english')
+  SELECT GETDATE()
+
+  DECLARE @i INT = 1;
+
+  WHILE @i <= 100000
+  BEGIN;
+	  INSERT INTO TransactionDetails.Transactions_SCHEMADATA
+	  (CustomerId, TransactionType, DateEntered, Amount,
+		 RelatedProductId)
+	  VALUES (1,1,GETDATE(),100,1);
+	  SET @i += 1;
+  END;
+  SELECT GETDATE()
+END
+GO
+[dbo].[usp_InsertData] 

@@ -1,0 +1,1 @@
+SELECT CONCAT('A',82)

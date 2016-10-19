@@ -1,0 +1,2 @@
+ALTER DATABASE ApressFinancial
+SET MULTI_USER
